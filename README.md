@@ -1,6 +1,6 @@
-# fcalculator
+# Scientific-Calculator
 
-A new Flutter application.
+Scientific calculator 
 
 ## Getting Started
 
